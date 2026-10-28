@@ -1,0 +1,4 @@
+numpy>=2.0
+matplotlib>=3.9
+# Also install the FemmSession binding supplied with FEMM-Qt.
+# See docs/INSTALLATION.md. FEMM itself is installed separately.
